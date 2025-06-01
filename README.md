@@ -26,7 +26,7 @@ MEDPRIV-AI is a privacy-preserving machine learning framework tailored for sensi
 - Federated Learning (simulated)
 
 ---
-🧪 Privacy-Focused Design
+## 🧪 Privacy-Focused Design
 ✅ Federated Learning
 Simulates hospital nodes training models independently
 
@@ -39,7 +39,7 @@ Tracks and displays ε (privacy budget) in training logs
 
 Defends against Membership Inference Attacks
 
-🧬 Synthetic Data
+## 🧬 Synthetic Data
 The DP-GAN component creates realistic but non-identifiable medical records, making it safe for:
 
 Prototyping ML models
@@ -48,7 +48,7 @@ Sharing across institutions
 
 Teaching and demonstrations
 
-🎓 Use Cases
+## 🎓 Use Cases
 Secure healthcare ML pipelines
 
 Privacy-compliant synthetic data generation
